@@ -1,0 +1,217 @@
+achievements:
+  solo_level_1:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 1'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 50.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 50
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  solo_level_2:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 2'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 100.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 100
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  solo_level_3:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 3'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 150.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+7 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 150
+    rewards:
+    - sololeveling forceattr %player% vitality 7
+  solo_level_4:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 4'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 200.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 200
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  solo_level_5:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 5'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 250.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 250
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  solo_level_6:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 6'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 300.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 300
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  solo_level_7:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 7'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 350.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 350
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  solo_level_8:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 8'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 400.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+21 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 400
+    rewards:
+    - sololeveling forceattr %player% vitality 21
+  solo_level_9:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 450.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+24 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 450
+    rewards:
+    - sololeveling forceattr %player% vitality 24
+  solo_level_10:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 500.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+27 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 500
+    rewards:
+    - sololeveling forceattr %player% vitality 27
+  solo_level_11:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 550.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+30 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 550
+    rewards:
+    - sololeveling forceattr %player% vitality 30
+  solo_level_12:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 600.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+33 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 600
+    rewards:
+    - sololeveling forceattr %player% vitality 33
+  solo_level_13:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 650.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+36 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 650
+    rewards:
+    - sololeveling forceattr %player% vitality 36
+  solo_level_14:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 700.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+38 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 700
+    rewards:
+    - sololeveling forceattr %player% vitality 38
+  solo_level_15:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 750.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+41 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 750
+    rewards:
+    - sololeveling forceattr %player% vitality 41
+  solo_level_16:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 800.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+44 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 800
+    rewards:
+    - sololeveling forceattr %player% vitality 44
+  solo_level_17:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 850.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+47 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 850
+    rewards:
+    - sololeveling forceattr %player% vitality 47
+  solo_level_18:
+    category: solo_level
+    display-name: '#55FF55🌟 Thăng Cấp #FFDD33★ 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Đạt Cấp Độ 900.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+50 Điểm chỉ số Máu'
+    type: SOLO_LEVEL_REACH
+    target: 900
+    rewards:
+    - sololeveling forceattr %player% vitality 50

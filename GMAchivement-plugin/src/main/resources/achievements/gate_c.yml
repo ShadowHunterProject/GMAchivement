@@ -1,0 +1,651 @@
+achievements:
+  gate_c_1:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Tân Binh'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 100 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 100
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  gate_c_2:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Thành Thạo'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 1,100 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+2 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 1100
+    rewards:
+    - sololeveling forceattr %player% vitality 2
+  gate_c_3:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Chuyên Gia'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 2,150 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+2 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 2150
+    rewards:
+    - sololeveling forceattr %player% vitality 2
+  gate_c_4:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Bậc Thầy'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 3,150 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 3150
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  gate_c_5:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Huyền Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 4,150 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 4150
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  gate_c_6:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Thần Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 5,200 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 5200
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  gate_c_7:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Chí Tôn'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 6,200 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+5 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 6200
+    rewards:
+    - sololeveling forceattr %player% vitality 5
+  gate_c_8:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Vô Cực'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 7,250 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+5 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 7250
+    rewards:
+    - sololeveling forceattr %player% vitality 5
+  gate_c_9:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 8,250 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 8250
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  gate_c_10:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 9,250 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 9250
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  gate_c_11:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 10,300 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+7 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 10300
+    rewards:
+    - sololeveling forceattr %player% vitality 7
+  gate_c_12:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 11,300 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 11300
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  gate_c_13:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 12,300 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 12300
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  gate_c_14:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 13,350 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+9 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 13350
+    rewards:
+    - sololeveling forceattr %player% vitality 9
+  gate_c_15:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 14,350 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+9 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 14350
+    rewards:
+    - sololeveling forceattr %player% vitality 9
+  gate_c_16:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 15,400 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 15400
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  gate_c_17:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 16,400 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 16400
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  gate_c_18:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 17,400 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+11 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 17400
+    rewards:
+    - sololeveling forceattr %player% vitality 11
+  gate_c_19:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 18,450 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+12 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 18450
+    rewards:
+    - sololeveling forceattr %player% vitality 12
+  gate_c_20:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 19,450 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+12 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 19450
+    rewards:
+    - sololeveling forceattr %player% vitality 12
+  gate_c_21:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 20,450 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 20450
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  gate_c_22:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 21,500 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 21500
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  gate_c_23:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 22,500 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+14 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 22500
+    rewards:
+    - sololeveling forceattr %player% vitality 14
+  gate_c_24:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 23,500 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 23500
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  gate_c_25:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 24,550 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 24550
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  gate_c_26:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 25,550 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+16 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 25550
+    rewards:
+    - sololeveling forceattr %player% vitality 16
+  gate_c_27:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 26,600 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+16 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 26600
+    rewards:
+    - sololeveling forceattr %player% vitality 16
+  gate_c_28:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 27,600 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+17 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 27600
+    rewards:
+    - sololeveling forceattr %player% vitality 17
+  gate_c_29:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 28,600 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 28600
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  gate_c_30:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 29,650 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 29650
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  gate_c_31:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 31'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 30,650 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+19 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 30650
+    rewards:
+    - sololeveling forceattr %player% vitality 19
+  gate_c_32:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 32'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 31,650 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+19 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 31650
+    rewards:
+    - sololeveling forceattr %player% vitality 19
+  gate_c_33:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 33'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 32,700 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+20 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 32700
+    rewards:
+    - sololeveling forceattr %player% vitality 20
+  gate_c_34:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 34'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 33,700 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+21 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 33700
+    rewards:
+    - sololeveling forceattr %player% vitality 21
+  gate_c_35:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 35'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 34,700 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+21 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 34700
+    rewards:
+    - sololeveling forceattr %player% vitality 21
+  gate_c_36:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 36'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 35,750 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+22 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 35750
+    rewards:
+    - sololeveling forceattr %player% vitality 22
+  gate_c_37:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 37'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 36,750 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+22 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 36750
+    rewards:
+    - sololeveling forceattr %player% vitality 22
+  gate_c_38:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 38'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 37,800 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+23 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 37800
+    rewards:
+    - sololeveling forceattr %player% vitality 23
+  gate_c_39:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 39'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 38,800 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+23 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 38800
+    rewards:
+    - sololeveling forceattr %player% vitality 23
+  gate_c_40:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 40'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 39,800 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+24 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 39800
+    rewards:
+    - sololeveling forceattr %player% vitality 24
+  gate_c_41:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 41'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 40,850 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+25 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 40850
+    rewards:
+    - sololeveling forceattr %player% vitality 25
+  gate_c_42:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 42'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 41,850 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+25 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 41850
+    rewards:
+    - sololeveling forceattr %player% vitality 25
+  gate_c_43:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 43'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 42,850 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+26 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 42850
+    rewards:
+    - sololeveling forceattr %player% vitality 26
+  gate_c_44:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 44'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 43,900 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+26 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 43900
+    rewards:
+    - sololeveling forceattr %player% vitality 26
+  gate_c_45:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 45'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 44,900 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+27 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 44900
+    rewards:
+    - sololeveling forceattr %player% vitality 27
+  gate_c_46:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 46'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 45,950 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+28 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 45950
+    rewards:
+    - sololeveling forceattr %player% vitality 28
+  gate_c_47:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 47'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 46,950 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+28 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 46950
+    rewards:
+    - sololeveling forceattr %player% vitality 28
+  gate_c_48:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 48'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 47,950 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+29 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 47950
+    rewards:
+    - sololeveling forceattr %player% vitality 29
+  gate_c_49:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 49'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 49,000 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+29 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 49000
+    rewards:
+    - sololeveling forceattr %player% vitality 29
+  gate_c_50:
+    category: gate_c
+    display-name: '#B266FF⚔ Chinh Phục Cổng C #FFDD33★ Cấp 50'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #B266FFTiêu diệt 50,000 quái vật Cổng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+30 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: RankC_hachiepsitanbinh,RankC_hachiepsicungthu,RankC_hachiepsitutruong,RankC_hachiepsichuy
+    target: 50000
+    rewards:
+    - sololeveling forceattr %player% vitality 30

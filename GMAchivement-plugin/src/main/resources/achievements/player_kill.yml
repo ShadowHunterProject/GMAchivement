@@ -1,0 +1,601 @@
+achievements:
+  pvp_killer_1:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Tân Binh'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 20 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 20
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  pvp_killer_2:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Thành Thạo'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 220 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 220
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  pvp_killer_3:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Chuyên Gia'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 430 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+2 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 430
+    rewards:
+    - sololeveling forceattr %player% vitality 2
+  pvp_killer_4:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Bậc Thầy'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 630 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+2 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 630
+    rewards:
+    - sololeveling forceattr %player% vitality 2
+  pvp_killer_5:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Huyền Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 830 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 830
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  pvp_killer_6:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Thần Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 1,040 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 1040
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  pvp_killer_7:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Chí Tôn'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 1,240 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 1240
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  pvp_killer_8:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Vô Cực'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 1,450 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 1450
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  pvp_killer_9:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 1,650 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 1650
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  pvp_killer_10:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 1,850 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 1850
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  pvp_killer_11:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 2,060 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+5 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 2060
+    rewards:
+    - sololeveling forceattr %player% vitality 5
+  pvp_killer_12:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 2,260 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+5 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 2260
+    rewards:
+    - sololeveling forceattr %player% vitality 5
+  pvp_killer_13:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 2,460 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 2460
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  pvp_killer_14:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 2,670 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 2670
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  pvp_killer_15:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 2,870 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 2870
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  pvp_killer_16:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 3,080 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+7 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 3080
+    rewards:
+    - sololeveling forceattr %player% vitality 7
+  pvp_killer_17:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 3,280 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+7 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 3280
+    rewards:
+    - sololeveling forceattr %player% vitality 7
+  pvp_killer_18:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 3,480 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 3480
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  pvp_killer_19:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 3,690 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 3690
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  pvp_killer_20:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 3,890 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 3890
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  pvp_killer_21:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 4,090 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+9 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 4090
+    rewards:
+    - sololeveling forceattr %player% vitality 9
+  pvp_killer_22:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 4,300 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+9 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 4300
+    rewards:
+    - sololeveling forceattr %player% vitality 9
+  pvp_killer_23:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 4,500 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 4500
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  pvp_killer_24:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 4,700 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 4700
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  pvp_killer_25:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 4,910 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 4910
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  pvp_killer_26:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 5,110 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+11 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 5110
+    rewards:
+    - sololeveling forceattr %player% vitality 11
+  pvp_killer_27:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 5,320 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+11 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 5320
+    rewards:
+    - sololeveling forceattr %player% vitality 11
+  pvp_killer_28:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 5,520 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+11 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 5520
+    rewards:
+    - sololeveling forceattr %player% vitality 11
+  pvp_killer_29:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 5,720 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+12 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 5720
+    rewards:
+    - sololeveling forceattr %player% vitality 12
+  pvp_killer_30:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 5,930 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+12 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 5930
+    rewards:
+    - sololeveling forceattr %player% vitality 12
+  pvp_killer_31:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 31'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 6,130 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 6130
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  pvp_killer_32:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 32'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 6,330 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 6330
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  pvp_killer_33:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 33'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 6,540 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 6540
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  pvp_killer_34:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 34'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 6,740 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+14 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 6740
+    rewards:
+    - sololeveling forceattr %player% vitality 14
+  pvp_killer_35:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 35'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 6,940 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+14 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 6940
+    rewards:
+    - sololeveling forceattr %player% vitality 14
+  pvp_killer_36:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 36'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 7,150 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 7150
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  pvp_killer_37:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 37'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 7,350 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 7350
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  pvp_killer_38:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 38'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 7,560 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 7560
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  pvp_killer_39:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 39'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 7,760 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+16 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 7760
+    rewards:
+    - sololeveling forceattr %player% vitality 16
+  pvp_killer_40:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 40'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 7,960 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+16 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 7960
+    rewards:
+    - sololeveling forceattr %player% vitality 16
+  pvp_killer_41:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 41'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 8,170 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+17 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 8170
+    rewards:
+    - sololeveling forceattr %player% vitality 17
+  pvp_killer_42:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 42'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 8,370 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+17 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 8370
+    rewards:
+    - sololeveling forceattr %player% vitality 17
+  pvp_killer_43:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 43'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 8,570 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+17 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 8570
+    rewards:
+    - sololeveling forceattr %player% vitality 17
+  pvp_killer_44:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 44'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 8,780 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 8780
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  pvp_killer_45:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 45'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 8,980 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 8980
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  pvp_killer_46:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 46'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 9,190 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 9190
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  pvp_killer_47:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 47'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 9,390 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+19 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 9390
+    rewards:
+    - sololeveling forceattr %player% vitality 19
+  pvp_killer_48:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 48'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 9,590 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+19 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 9590
+    rewards:
+    - sololeveling forceattr %player% vitality 19
+  pvp_killer_49:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 49'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 9,800 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+20 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 9800
+    rewards:
+    - sololeveling forceattr %player% vitality 20
+  pvp_killer_50:
+    category: player_kill
+    display-name: '#FF1A1A⚔ Sát Nhân #FFDD33★ Cấp 50'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF1A1ATiêu diệt 10,000 người chơi.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+20 Điểm chỉ số Máu'
+    type: PLAYER_KILL
+    target: 10000
+    rewards:
+    - sololeveling forceattr %player% vitality 20

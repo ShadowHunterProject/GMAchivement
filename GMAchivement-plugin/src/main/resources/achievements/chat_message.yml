@@ -1,0 +1,601 @@
+achievements:
+  chatter_1:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 1'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 20 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 20
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_2:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 2'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 220 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 220
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_3:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 3'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 430 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 430
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_4:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 4'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 630 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 630
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_5:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 5'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 830 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 830
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_6:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 6'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 1,040 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 1040
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_7:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 7'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 1,240 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 1240
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_8:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 8'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 1,450 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 1450
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_9:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 1,650 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 1650
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_10:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 1,850 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 1850
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_11:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 2,060 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 2060
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_12:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 2,260 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 2260
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_13:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 2,460 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 2460
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_14:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 2,670 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 2670
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_15:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 2,870 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 2870
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_16:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 3,080 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 3080
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_17:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 3,280 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 3280
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_18:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 3,480 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 3480
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_19:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 3,690 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 3690
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_20:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 3,890 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 3890
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_21:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 4,090 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 4090
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_22:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 4,300 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 4300
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_23:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 4,500 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 4500
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_24:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 4,700 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 4700
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_25:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 4,910 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 4910
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_26:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 5,110 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 5110
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_27:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 5,320 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 5320
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_28:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 5,520 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 5520
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_29:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 5,720 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 5720
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_30:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 5,930 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 5930
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_31:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 31'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 6,130 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 6130
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_32:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 32'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 6,330 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 6330
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_33:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 33'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 6,540 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 6540
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_34:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 34'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 6,740 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 6740
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_35:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 35'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 6,940 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 6940
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_36:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 36'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 7,150 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 7150
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_37:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 37'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 7,350 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 7350
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_38:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 38'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 7,560 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 7560
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_39:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 39'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 7,760 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 7760
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_40:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 40'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 7,960 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 7960
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_41:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 41'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 8,170 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 8170
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_42:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 42'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 8,370 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 8370
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_43:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 43'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 8,570 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 8570
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_44:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 44'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 8,780 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 8780
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_45:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 45'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 8,980 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 8980
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_46:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 46'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 9,190 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 9190
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_47:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 47'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 9,390 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 9390
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_48:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 48'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 9,590 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 9590
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_49:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 49'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 9,800 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 9800
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  chatter_50:
+    category: chat_message
+    display-name: '#FFFFFF💬 Thánh Chat #FFDD33★ 50'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFFFFFGửi 10,000 tin nhắn.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: CHAT_MESSAGE
+    target: 10000
+    rewards:
+    - sololeveling forceattr %player% vitality 1

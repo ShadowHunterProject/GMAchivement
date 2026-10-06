@@ -1,0 +1,391 @@
+achievements:
+  boss_kill_1:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Tân Binh'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 10 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 10
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  boss_kill_2:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Thành Thạo'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 350 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+2 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 350
+    rewards:
+    - sololeveling forceattr %player% vitality 2
+  boss_kill_3:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Chuyên Gia'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 700 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+3 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 700
+    rewards:
+    - sololeveling forceattr %player% vitality 3
+  boss_kill_4:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Bậc Thầy'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 1,040 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+4 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 1040
+    rewards:
+    - sololeveling forceattr %player% vitality 4
+  boss_kill_5:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Huyền Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 1,390 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+5 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 1390
+    rewards:
+    - sololeveling forceattr %player% vitality 5
+  boss_kill_6:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Thần Thoại'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 1,730 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+6 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 1730
+    rewards:
+    - sololeveling forceattr %player% vitality 6
+  boss_kill_7:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Chí Tôn'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 2,080 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+7 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 2080
+    rewards:
+    - sololeveling forceattr %player% vitality 7
+  boss_kill_8:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Vô Cực'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 2,420 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+8 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 2420
+    rewards:
+    - sololeveling forceattr %player% vitality 8
+  boss_kill_9:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 2,770 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+9 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 2770
+    rewards:
+    - sololeveling forceattr %player% vitality 9
+  boss_kill_10:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 3,110 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+10 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 3110
+    rewards:
+    - sololeveling forceattr %player% vitality 10
+  boss_kill_11:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 3,450 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+11 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 3450
+    rewards:
+    - sololeveling forceattr %player% vitality 11
+  boss_kill_12:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 3,800 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+12 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 3800
+    rewards:
+    - sololeveling forceattr %player% vitality 12
+  boss_kill_13:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 4,140 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+13 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 4140
+    rewards:
+    - sololeveling forceattr %player% vitality 13
+  boss_kill_14:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 4,490 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+14 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 4490
+    rewards:
+    - sololeveling forceattr %player% vitality 14
+  boss_kill_15:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 4,830 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+15 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 4830
+    rewards:
+    - sololeveling forceattr %player% vitality 15
+  boss_kill_16:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 5,180 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+16 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 5180
+    rewards:
+    - sololeveling forceattr %player% vitality 16
+  boss_kill_17:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 5,520 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+17 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 5520
+    rewards:
+    - sololeveling forceattr %player% vitality 17
+  boss_kill_18:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 5,870 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+18 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 5870
+    rewards:
+    - sololeveling forceattr %player% vitality 18
+  boss_kill_19:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 6,210 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+19 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 6210
+    rewards:
+    - sololeveling forceattr %player% vitality 19
+  boss_kill_20:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 6,560 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+20 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 6560
+    rewards:
+    - sololeveling forceattr %player% vitality 20
+  boss_kill_21:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 6,900 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+21 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 6900
+    rewards:
+    - sololeveling forceattr %player% vitality 21
+  boss_kill_22:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 7,240 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+22 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 7240
+    rewards:
+    - sololeveling forceattr %player% vitality 22
+  boss_kill_23:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 7,590 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+23 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 7590
+    rewards:
+    - sololeveling forceattr %player% vitality 23
+  boss_kill_24:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 7,930 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+24 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 7930
+    rewards:
+    - sololeveling forceattr %player% vitality 24
+  boss_kill_25:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 8,280 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+25 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 8280
+    rewards:
+    - sololeveling forceattr %player% vitality 25
+  boss_kill_26:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 8,620 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+26 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 8620
+    rewards:
+    - sololeveling forceattr %player% vitality 26
+  boss_kill_27:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 8,970 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+27 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 8970
+    rewards:
+    - sololeveling forceattr %player% vitality 27
+  boss_kill_28:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 9,310 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+28 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 9310
+    rewards:
+    - sololeveling forceattr %player% vitality 28
+  boss_kill_29:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 9,660 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+29 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 9660
+    rewards:
+    - sololeveling forceattr %player% vitality 29
+  boss_kill_30:
+    category: boss_kill
+    display-name: '#FF3333🐉 Thợ Săn Boss #FFDD33★ Cấp 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FF3333Tiêu diệt 10,000 tất cả Boss ở Dungeon.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+30 Điểm chỉ số Máu'
+    type: MYTHIC_MOB_KILL
+    target-filter: Orc_Giant,Orc_King,crowreaper,thecrowknight,apocalypse_type_a,koboldWizard_em,ice_golem,Mage,LR_HYDRA
+    target: 10000
+    rewards:
+    - sololeveling forceattr %player% vitality 30

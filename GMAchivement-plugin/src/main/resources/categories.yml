@@ -1,0 +1,129 @@
+categories:
+  player_kill:
+    display-name: "#FF1A1A⚔ Sát Nhân"
+    icon: DIAMOND_SWORD
+    slot: 11
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu tiêu diệt người chơi."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  play_time:
+    display-name: "#00E5FF⌚ Thời Gian"
+    icon: CLOCK
+    slot: 12
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu cày cuốc thời gian."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  crate_open:
+    display-name: "#FFD700🎁 Mở Rương"
+    icon: CHEST
+    slot: 13
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu thử vận may rương đồ."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  points_earn:
+    display-name: "#FFAA00💰 Kiếm Xu"
+    icon: GOLD_INGOT
+    slot: 14
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu tích lũy Xu."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  points_spend:
+    display-name: "#FF6600💸 Tiêu Xu"
+    icon: EMERALD
+    slot: 15
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu tiêu xài Xu."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  player_join:
+    display-name: "#4C99FF🧭 Đăng Nhập"
+    icon: COMPASS
+    slot: 20
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu điểm danh máy chủ."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  chat_message:
+    display-name: "#FFFFFF💬 Trò Chuyện"
+    icon: PAPER
+    slot: 21
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu giao tiếp kênh Chat."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  command_execute:
+    display-name: "#AAAAAA⌨ Dùng Lệnh"
+    icon: COMMAND_BLOCK
+    slot: 23
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu sử dụng lệnh hệ thống."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  boss_kill:
+    display-name: "#FF3333🐉 Săn Boss"
+    icon: DRAGON_HEAD
+    slot: 24
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu chinh phạt Boss Dungeon."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  gate_e:
+    display-name: "#B266FF⚔ Chinh Phục Cổng E"
+    icon: WOODEN_SWORD
+    slot: 29
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu dọn dẹp quái vật Cổng E."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  gate_d:
+    display-name: "#B266FF⚔ Chinh Phục Cổng D"
+    icon: STONE_SWORD
+    slot: 30
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu dọn dẹp quái vật Cổng D."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  gate_c:
+    display-name: "#B266FF⚔ Chinh Phục Cổng C"
+    icon: IRON_SWORD
+    slot: 31
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu dọn dẹp quái vật Cổng C."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  gate_b:
+    display-name: "#B266FF⚔ Chinh Phục Cổng B"
+    icon: GOLDEN_SWORD
+    slot: 32
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu dọn dẹp quái vật Cổng B."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  gate_a:
+    display-name: "#B266FF⚔ Chinh Phục Cổng A"
+    icon: DIAMOND_SWORD
+    slot: 33
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu dọn dẹp quái vật Cổng A."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  solo_level:
+    display-name: "#55FF55🌟 Thăng Cấp"
+    icon: EXPERIENCE_BOTTLE
+    slot: 39
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu tăng cấp độ."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"
+  solo_rank:
+    display-name: "#AA00AA👑 Chuyển Sinh"
+    icon: NETHER_STAR
+    slot: 41
+    lore:
+      - "#AAAAAA▶ #FFFFFFThành tựu thăng cấp bậc."
+      - ""
+      - "#00E5FF⬩ Nhấn để xem chi tiết!"

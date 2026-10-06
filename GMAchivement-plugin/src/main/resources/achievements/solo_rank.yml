@@ -1,0 +1,66 @@
+achievements:
+  solo_rank_rank_d:
+    category: solo_rank
+    display-name: '#A9A9A9👑 Chuyển Sinh Hạng D'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #A9A9A9Tái Thức Tỉnh lên Hạng D.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+30 Điểm chỉ số Máu'
+    type: SOLO_RANK_REACH
+    target-filter: rank_d
+    target: 1
+    rewards:
+    - sololeveling forceattr %player% vitality 30
+  solo_rank_rank_c:
+    category: solo_rank
+    display-name: '#55FF55👑 Chuyển Sinh Hạng C'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #55FF55Tái Thức Tỉnh lên Hạng C.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+60 Điểm chỉ số Máu'
+    type: SOLO_RANK_REACH
+    target-filter: rank_c
+    target: 1
+    rewards:
+    - sololeveling forceattr %player% vitality 60
+  solo_rank_rank_b:
+    category: solo_rank
+    display-name: '#00AAFF👑 Chuyển Sinh Hạng B'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00AAFFTái Thức Tỉnh lên Hạng B.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+90 Điểm chỉ số Máu'
+    type: SOLO_RANK_REACH
+    target-filter: rank_b
+    target: 1
+    rewards:
+    - sololeveling forceattr %player% vitality 90
+  solo_rank_rank_a:
+    category: solo_rank
+    display-name: '#AA00AA👑 Chuyển Sinh Hạng A'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #AA00AATái Thức Tỉnh lên Hạng A.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+120 Điểm chỉ số Máu'
+    type: SOLO_RANK_REACH
+    target-filter: rank_a
+    target: 1
+    rewards:
+    - sololeveling forceattr %player% vitality 120
+  solo_rank_rank_s:
+    category: solo_rank
+    display-name: '#FFAA00👑 Chuyển Sinh Hạng S'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Tái Thức Tỉnh lên Hạng S.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+150 Điểm chỉ số Máu'
+    type: SOLO_RANK_REACH
+    target-filter: rank_s
+    target: 1
+    rewards:
+    - sololeveling forceattr %player% vitality 150

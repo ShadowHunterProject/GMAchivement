@@ -1,0 +1,19 @@
+package com.turtle.gmachivement.api;
+
+public enum AchievementType {
+    PLAYER_JOIN,
+    BLOCK_BREAK,
+    BLOCK_PLACE,
+    ENTITY_KILL,
+    MYTHIC_MOB_KILL,
+    PLAYER_KILL,
+    PLAY_TIME,
+    CHAT_MESSAGE,
+    COMMAND_EXECUTE,
+    EXCELLENT_CRATE_OPEN,
+    PLAYER_POINTS_EARN,
+    PLAYER_POINTS_SPEND,
+    SOLO_LEVEL_REACH,
+    SOLO_RANK_REACH,
+    CUSTOM
+}

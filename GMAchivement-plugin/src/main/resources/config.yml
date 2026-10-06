@@ -1,0 +1,61 @@
+# GMAchivement Global Configuration
+
+settings:
+  # Hiển thị log chi tiết (Dành cho dev)
+  debug: false
+  # Tự động lưu dữ liệu người chơi định kỳ (Phút)
+  auto-save-interval: 10
+  # Gửi tin nhắn cá nhân cho người chơi khi hoàn thành thành tựu
+  message-on-complete: true
+  # Thông báo cho toàn máy chủ khi có người hoàn thành 1 thành tựu
+  broadcast-on-complete: true
+
+# Cấu hình giao diện GUI (Màu sắc hỗ trợ mã &)
+gui:
+  main-menu-title: "&8❖ &3DANH MỤC THÀNH TỰU &8❖"
+  filler-item: "GRAY_STAINED_GLASS_PANE"
+  border-item: "CYAN_STAINED_GLASS_PANE"
+  info-item:
+    name: "&a&lHỆ THỐNG THÀNH TỰU"
+    slot: 4
+    lore:
+      - "&7Hoàn thành các nhiệm vụ để"
+      - "&7nhận phần thưởng hấp dẫn!"
+  close-item:
+    name: "&c&lĐóng Menu"
+    slot: 49
+  back-item:
+    name: "&eQuay lại"
+    slot: 45
+  achievement-slots:
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+  status-items:
+    in-progress: "PAPER"
+    claimable: "CHEST"
+    completed: "CHEST_MINECART"
+
+# Âm thanh (Sử dụng chuẩn Sound của Bukkit)
+sounds:
+  enable: true
+  on-complete: "ENTITY_PLAYER_LEVELUP"
+  on-claim: "ENTITY_EXPERIENCE_ORB_PICKUP"

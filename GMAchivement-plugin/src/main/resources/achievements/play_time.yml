@@ -1,0 +1,601 @@
+achievements:
+  playtime_1:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 1'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 1 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 60
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_2:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 2'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 11 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 670
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_3:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 3'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 21 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 1280
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_4:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 4'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 31 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 1890
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_5:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 5'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 41 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 2500
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_6:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 6'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 52 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 3120
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_7:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 7'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 62 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 3730
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_8:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 8'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 72 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 4340
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_9:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 82 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 4950
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_10:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 92 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 5560
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_11:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 102 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 6170
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_12:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 113 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 6780
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_13:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 123 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 7390
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_14:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 133 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 8000
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_15:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 143 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 8610
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_16:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 153 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 9230
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_17:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 164 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 9840
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_18:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 174 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 10450
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_19:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 184 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 11060
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_20:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 194 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 11670
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_21:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 204 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 12280
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_22:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 214 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 12890
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_23:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 225 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 13500
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_24:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 235 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 14110
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_25:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 245 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 14720
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_26:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 255 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 15340
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_27:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 265 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 15950
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_28:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 276 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 16560
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_29:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 286 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 17170
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_30:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 296 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 17780
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_31:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 31'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 306 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 18390
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_32:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 32'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 316 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 19000
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_33:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 33'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 326 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 19610
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_34:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 34'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 337 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 20220
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_35:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 35'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 347 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 20830
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_36:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 36'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 357 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 21450
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_37:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 37'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 367 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 22060
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_38:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 38'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 377 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 22670
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_39:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 39'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 388 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 23280
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_40:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 40'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 398 giờ 10 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 23890
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_41:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 41'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 408 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 24500
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_42:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 42'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 418 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 25110
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_43:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 43'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 428 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 25720
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_44:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 44'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 438 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 26330
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_45:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 45'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 449 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 26940
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_46:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 46'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 459 giờ 20 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 27560
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_47:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 47'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 469 giờ 30 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 28170
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_48:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 48'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 479 giờ 40 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 28780
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_49:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 49'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 489 giờ 50 phút.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 29390
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  playtime_50:
+    category: play_time
+    display-name: '#00E5FF⌚ Người Chơi Chăm Chỉ #FFDD33★ 50'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #00E5FFChơi game 500 giờ.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAY_TIME
+    target: 30000
+    rewards:
+    - sololeveling forceattr %player% vitality 1

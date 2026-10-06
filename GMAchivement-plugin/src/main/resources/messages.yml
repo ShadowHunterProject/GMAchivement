@@ -1,0 +1,37 @@
+# GMAchivement Messages
+# Use & for color codes. Placeholders will be replaced accordingly.
+
+prefix: "&8[&aSổ Thành Tựu&8] &r"
+
+commands:
+  no_permission: "&c✖ &7Bạn không có quyền sử dụng lệnh này."
+  only_player: "&c✖ &7Chỉ người chơi mới có thể sử dụng lệnh này."
+  reload_success: "&a✔ &7Đã tải lại cấu hình thành công!"
+  help_header: "&8&m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯&r &e&lSỔ THÀNH TỰU &8&m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯"
+  help_menu: " &8⯈ &e/thanhtuu &7- Mở menu chính."
+  help_reload: " &8⯈ &e/thanhtuu reload &7- Tải lại cấu hình (Admin)."
+
+menu:
+  reward_claimed: "&a✔ &7Đã nhận thành công phần thưởng thành tựu."
+  reward_already_claimed: "&e⚠ &7Bạn đã nhận phần thưởng này rồi."
+
+notifications:
+  achievement_complete: "&aBạn đã hoàn thành thành tựu: %achievement%&a! Hãy mở /thanhtuu để nhận thưởng."
+  achievement_broadcast: "&8[&aThành Tựu&8] &e%player% &7vừa hoàn thành thành tựu: %achievement%"
+
+achievement_types:
+  MYTHIC_MOB_KILL: "&cGiết Quái"
+  EXCELLENT_CRATE_OPEN: "&aMở Rương"
+  PLAY_TIME: "&3Online"
+  PLAYER_KILL: "&4Giết Người Chơi"
+  BLOCK_BREAK: "&8Đập Block"
+  BLOCK_PLACE: "&7Đặt Block"
+  ENTITY_KILL: "&cGiết Quái Vanilla"
+  PLAYER_JOIN: "&eTham Gia"
+  CHAT_MESSAGE: "&fChat"
+  COMMAND_EXECUTE: "&7Dùng Lệnh"
+  PLAYER_POINTS_EARN: "&aNhận Xu"
+  PLAYER_POINTS_SPEND: "&cTiêu Xu"
+  SOLO_LEVEL_REACH: "&eThăng Cấp"
+  SOLO_RANK_REACH: "&dRank Thợ Săn"
+  CUSTOM: "&5Đặc Biệt"

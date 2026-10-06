@@ -1,0 +1,22 @@
+name: GMAchivement
+version: ${project.version}
+main: com.turtle.gmachivement.GMAchivementPlugin
+api-version: '1.21'
+depend: [SoloLevelingCore]
+softdepend: [PlayerPoints, MythicMobs, ExcellentCrates, PlaceholderAPI]
+description: Achievement system plugin for Turtle servers.
+
+commands:
+  thanhtuu:
+    description: Open the GMAchivement menu and admin tools
+    usage: /<command> [reload]
+    permission: gmachivement.use
+    aliases: [achievements, tt]
+
+permissions:
+  gmachivement.use:
+    description: Use GMAchivement player commands
+    default: true
+  gmachivement.admin:
+    description: Manage GMAchivement plugin
+    default: op

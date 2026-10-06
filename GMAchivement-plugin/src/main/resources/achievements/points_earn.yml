@@ -1,0 +1,601 @@
+achievements:
+  point_earner_1:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 1'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 20 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 20
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_2:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 2'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 220 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 220
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_3:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 3'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 430 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 430
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_4:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 4'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 630 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 630
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_5:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 5'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 830 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 830
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_6:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 6'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 1,040 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 1040
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_7:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 7'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 1,240 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 1240
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_8:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 8'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 1,450 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 1450
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_9:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 9'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 1,650 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 1650
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_10:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 10'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 1,850 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 1850
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_11:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 11'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 2,060 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 2060
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_12:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 12'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 2,260 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 2260
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_13:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 13'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 2,460 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 2460
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_14:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 14'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 2,670 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 2670
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_15:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 15'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 2,870 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 2870
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_16:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 16'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 3,080 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 3080
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_17:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 17'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 3,280 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 3280
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_18:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 18'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 3,480 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 3480
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_19:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 19'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 3,690 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 3690
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_20:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 20'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 3,890 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 3890
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_21:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 21'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 4,090 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 4090
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_22:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 22'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 4,300 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 4300
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_23:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 23'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 4,500 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 4500
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_24:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 24'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 4,700 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 4700
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_25:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 25'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 4,910 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 4910
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_26:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 26'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 5,110 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 5110
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_27:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 27'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 5,320 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 5320
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_28:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 28'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 5,520 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 5520
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_29:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 29'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 5,720 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 5720
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_30:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 30'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 5,930 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 5930
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_31:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 31'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 6,130 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 6130
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_32:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 32'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 6,330 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 6330
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_33:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 33'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 6,540 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 6540
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_34:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 34'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 6,740 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 6740
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_35:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 35'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 6,940 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 6940
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_36:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 36'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 7,150 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 7150
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_37:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 37'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 7,350 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 7350
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_38:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 38'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 7,560 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 7560
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_39:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 39'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 7,760 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 7760
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_40:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 40'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 7,960 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 7960
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_41:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 41'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 8,170 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 8170
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_42:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 42'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 8,370 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 8370
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_43:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 43'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 8,570 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 8570
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_44:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 44'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 8,780 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 8780
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_45:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 45'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 8,980 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 8980
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_46:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 46'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 9,190 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 9190
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_47:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 47'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 9,390 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 9390
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_48:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 48'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 9,590 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 9590
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_49:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 49'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 9,800 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 9800
+    rewards:
+    - sololeveling forceattr %player% vitality 1
+  point_earner_50:
+    category: points_earn
+    display-name: '#FFAA00💰 Đại Gia Xu #FFDD33★ 50'
+    lore:
+    - '#AAAAAA▶ #FFFFFFNhiệm vụ: #FFAA00Kiếm được 10,000 Xu.'
+    - ''
+    - '#FFD700✦ Phần thưởng vinh dự:'
+    - '  &8▪ &c+1 Điểm chỉ số Máu'
+    type: PLAYER_POINTS_EARN
+    target: 10000
+    rewards:
+    - sololeveling forceattr %player% vitality 1
